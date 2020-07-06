@@ -55,3 +55,7 @@ img{
 #description{
     margin: 0px 10px 0px 10px;
 }
+
+figure{
+    width: inherit;
+}
