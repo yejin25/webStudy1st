@@ -22,8 +22,9 @@ h3{
 }
 
 ul{
+    max-width: 580px;
     text-align: left;
-    margin: 0px 200px 0px 200px;
+    margin: 10px auto 50px auto;
 }
 
 li{
